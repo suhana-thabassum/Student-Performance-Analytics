@@ -64,4 +64,5 @@ Through this project, I practiced Python functions, loops, conditional statement
 The system successfully analyzes 20 student records and displays marks summaries, grades, results, class statistics, subject-wise performance, top performers, and attendance analysis.
 
 ## 11. GitHub Repository
-Repository link: To be added after uploading the project to GitHub.
+Repository link: https://github.com/suhana-thabassum/Student-Performance-Analytics
+
